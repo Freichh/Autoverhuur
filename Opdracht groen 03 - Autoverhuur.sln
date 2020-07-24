@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Opdracht groen 03 - Autoverhuur", "Opdracht groen 03 - Autoverhuur\Opdracht groen 03 - Autoverhuur.csproj", "{5CA4D31B-5554-4D2B-A114-91E9BB66FCF1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5CA4D31B-5554-4D2B-A114-91E9BB66FCF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CA4D31B-5554-4D2B-A114-91E9BB66FCF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CA4D31B-5554-4D2B-A114-91E9BB66FCF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CA4D31B-5554-4D2B-A114-91E9BB66FCF1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7186FFAB-BE2B-4DAF-A559-BE4C3FFD2187}
+	EndGlobalSection
+EndGlobal
